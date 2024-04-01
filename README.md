@@ -1,4 +1,4 @@
-# Assignment Overview
+# Caterpillar Game
 This assignment is designed to provide practice with various data structures and their applications, as well as reinforce programming concepts through the implementation of a small caterpillar game.
 
 ## Learning Objectives
